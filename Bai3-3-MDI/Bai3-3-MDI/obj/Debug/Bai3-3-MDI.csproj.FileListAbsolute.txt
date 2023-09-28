@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\bin\Debug\Bai3-3-MDI.exe.config
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\bin\Debug\Bai3-3-MDI.exe
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\bin\Debug\Bai3-3-MDI.pdb
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3-3-MDI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3_3_MDI.Form1.resources
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3_3_MDI.Form2.resources
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3_3_MDI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3-3-MDI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3-3-MDI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3-3-MDI.exe
+C:\Users\Lenovo\source\repos\Bai3-3-MDI\Bai3-3-MDI\obj\Debug\Bai3-3-MDI.pdb

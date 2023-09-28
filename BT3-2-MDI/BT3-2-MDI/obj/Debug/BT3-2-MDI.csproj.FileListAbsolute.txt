@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\bin\Debug\BT3-2-MDI.exe.config
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\bin\Debug\BT3-2-MDI.exe
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\bin\Debug\BT3-2-MDI.pdb
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3-2-MDI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3_2_MDI.Form1.resources
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3_2_MDI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3-2-MDI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3-2-MDI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3-2-MDI.exe
+C:\Users\Lenovo\source\repos\BT3-2-MDI\BT3-2-MDI\obj\Debug\BT3-2-MDI.pdb

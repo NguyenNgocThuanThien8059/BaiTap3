@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\bin\Debug\BT3-1-MDI.exe.config
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\bin\Debug\BT3-1-MDI.exe
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\bin\Debug\BT3-1-MDI.pdb
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3_1_MDI.Form1.resources
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3_1_MDI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.exe
+C:\Users\Lenovo\source\repos\BT3-1-MDI\BT3-1-MDI\obj\Debug\BT3-1-MDI.pdb
